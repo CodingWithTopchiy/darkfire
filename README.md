@@ -8,3 +8,16 @@ DARKFIRE - Content Reference
 Logo:        DARKFIRE
 
 Tagline:     Street Food & Bar
+
+🗂 Navigation
+
+Home
+
+Menu
+
+About
+
+Contact
+
+Book a Table        ← CTA кнопка
+
