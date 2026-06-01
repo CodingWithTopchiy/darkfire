@@ -21,7 +21,7 @@ Contact
 
 Book a Table        ← CTA кнопка
 
-Hero Slider
+**Hero Slider**
 
 Слайд 1
 
