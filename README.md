@@ -83,17 +83,17 @@ Panel text: Every patty is made from locally sourced beef, aged for 21 days. Bun
 
 Items:
 
-Smoky Classic — beef, cheddar, bacon
+Smoky Classic - beef, cheddar, bacon
 
-Dark Beast — double, truffle sauce
+Dark Beast - double, truffle sauce
 
-Fire & Fury — jalapeno, hot sauce
+Fire & Fury - jalapeno, hot sauce
 
-Black Gold — truffle sauce, parmesan
+Black Gold - truffle sauce, parmesan
 
-No Meat — jackfruit BBQ, avocado
+No Meat - jackfruit BBQ, avocado
 
-Kids Slider — mini classic version
+Kids Slider - mini classic version
 
 🔥 Tab - Grill
 
