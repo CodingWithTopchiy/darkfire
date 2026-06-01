@@ -10,15 +10,15 @@ Tagline: Street Food & Bar
 
 🗂 Navigation
 
-Home → #home
+Home - #home
 
-Menu → #menu
+Menu - #menu
 
-About → #about
+About - #about
 
-Contact → #contact
+Contact - #contact
 
-Book a Table → #contact ← CTA кнопка
+Book a Table - #contact - CTA кнопка
 
 
 🎠 Hero Slider
@@ -84,118 +84,187 @@ Panel text: Every patty is made from locally sourced beef, aged for 21 days. Bun
 Items:
 
 Smoky Classic — beef, cheddar, bacon
+
 Dark Beast — double, truffle sauce
+
 Fire & Fury — jalapeno, hot sauce
+
 Black Gold — truffle sauce, parmesan
+
 No Meat — jackfruit BBQ, avocado
+
 Kids Slider — mini classic version
 
-🔥 Tab — Grill
+🔥 Tab - Grill
+
 Tab title: Grill
+
 Tab sub: Meat, poultry, seafood
+
 Panel title: Live Fire Grill
+
 Panel text: Our grill runs on oak and apple charcoal. Temperature - 400°C. Every piece gets the right sear and a perfect cook.
+
 Items:
 
-Ribeye 300g — doneness of choice
+Ribeye 300g - doneness of choice
+
 Striploin with chimichurri
+
 Wings in dark marinade
+
 Grilled octopus with lemon
+
 Seasonal vegetables with herbs
+
 Sharing platter for two
 
-🍺 Tab — Drinks & Bar
+🍺 Tab - Drinks & Bar
+
 Tab title: Drinks & Bar
+
 Tab sub: Craft, cocktails, non-alc
+
 Panel title: Bar & Drinks
+
 Panel text: Craft beer from local breweries, signature cocktails with smoky whiskey, lemonades on natural syrups.
+
 Items:
 
-Craft beer — 8 taps, rotating
-Smoky Old Fashioned — whiskey, smoke
-Dark Mule — ginger, lime, gin
-Charcoal Lemonade — non-alc
-Natural wine from small estates
-Tasting set — 4 cocktails
+Craft beer - 8 taps, rotating
 
+Smoky Old Fashioned - whiskey, smoke
+
+Dark Mule - ginger, lime, gin
+
+Charcoal Lemonade - non-alc
+
+Natural wine from small estates
+
+Tasting set - 4 cocktails
 
 🏛 About Section
+
 Eyebrow: Our Story
+
 Title: FIRE SINCE 2019
+
 Subtitle: DARKFIRE started as a street food cart with burgers. Today it's a grill restaurant with a concept that never changes.
+
 Timeline
-2019 — The First Cart
+
+2019 - The First Cart
+
 Started with one burger recipe and a charcoal grill on wheels. A queue every day - we knew we were on the right track.
-2021 — First Dining Room
+
+2021 - First Dining Room
+
 Opened a permanent spot: 30 seats, open kitchen, live grill in full view of our guests.
-2023 — Recognition & Bar
+
+2023 - Recognition & Bar
+
 Ranked top-10 best burger spots in the city. Opened a full bar with craft beer and signature cocktails.
-2025 — New Format
+
+2025 - New Format
+
 Expanded into a full grill restaurant. Live fire, wine list, private bookings for groups.
+
 Feature Cards
+
 🥩 Local Sourcing
+
 Meat from farms within 200 km. Seasonal vegetables from local markets. No long supply chains.
+
 🌑 Live Fire
+
 Only oak and apple wood charcoal. Temperature, smoke and time - our main tools.
+
 🍺 Craft Bar
+
 8 taps of live beer from independent breweries, rotating every 2 weeks. Signature cocktails with smoky notes.
+
 Stats
 
-40+ — Menu Items
-6 — Years on Market
-4.8 — Guest Rating
-100% — Live Fire
+40+ - Menu Items
 
+6 - Years on Market
+
+4.8 - Guest Rating
+
+100% - Live Fire
 
 📬 Contact Section
+
 Eyebrow: Get in Touch
+
 Title: RESERVATIONS
+
 Subtitle: Want to book a table or get more details? Write to us - we reply within an hour.
+
 Form Fields
 
-Your Name — placeholder: John Smith
-Email — placeholder: john@email.com
-Subject — placeholder: Table for 6 on Friday
-Message — placeholder: Date, time, any requests...
+Your Name - placeholder: John Smith
+
+Email - placeholder: john@email.com
+
+Subject - placeholder: Table for 6 on Friday
+
+Message - placeholder: Date, time, any requests...
+
 Button: Send Request
 
 Contact Info
 
 📍 Address: 12 Mekhanizatoriv St., Kyiv, 02000
-📞 Phone: +380 44 123 45 67 → href="tel:+380441234567"
-✉️ Email: hello@darkfire.com.ua → href="mailto:hello@darkfire.com.ua"
+
+📞 Phone: +380 44 123 45 67 - href="tel:+380441234567"
+
+✉️ Email: hello@darkfire.com.ua - href="mailto:hello@darkfire.com.ua"
+
 🕐 Hours: Mon-Thu 12:00 - 23:00 / Fri-Sun 12:00 - 01:00
 
+**Footer**
 
-🦶 Footer
 Logo: DARKFIRE
+
 Description: Grill restaurant and bar in the heart of the city. Live fire, honest food and an atmosphere you'll want to stay in.
+
 Socials
 
-FB → #
-IG → #
-TG → #
+FB - #
+IG - #
+TG - #
 
-Column — Menu
+Column - Menu
 
-Burgers → #menu
-Grill → #menu
-Bar → #menu
-Events → #contact
+Burgers - #menu
 
-Column — Restaurant
+Grill - #menu
 
-About Us → #about
-Our Story → #about
-Careers → #contact
-Delivery → #contact
+Bar - #menu
 
-Column — Info
+Events - #contact
 
-Privacy Policy → #
-Booking Terms → #
-Contacts → #contact
+Column - Restaurant
+
+About Us - #about
+
+Our Story - #about
+
+Careers - #contact
+
+Delivery - #contact
+
+Column - Info
+
+Privacy Policy - #
+
+Booking Terms - #
+
+Contacts - #contact
 
 Bottom
+
 Copyright: © 2026 DARKFIRE Street Food & Bar. All rights reserved.
+
 Credit: Powered by Topchiy DEV
