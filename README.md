@@ -1,10 +1,12 @@
-DARKFIRE — Content Reference
+DARKFIRE - Content Reference
 
 Копируй отсюда весь текст, иконки и ссылки при сборке сайта.
 
-
 🔤 Brand
-LogoDARKFIRETaglineStreet Food & Bar
+
+LogoDARKFIRE
+
+TaglineStreet Food & Bar
 
 🗂 Navigation
 LabelhrefHome#homeMenu#menuAbout#aboutContact#contactBook a Table ← CTA#contact
