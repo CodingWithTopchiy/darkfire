@@ -1,60 +1,86 @@
-DARKFIRE — Content Reference
+DARKFIRE - Content Reference
+
 Копируй отсюда текст, иконки и ссылки при сборке сайта.
 
 🔤 Brand
+
 Logo: DARKFIRE
+
 Tagline: Street Food & Bar
 
 🗂 Navigation
 
 Home → #home
+
 Menu → #menu
+
 About → #about
+
 Contact → #contact
+
 Book a Table → #contact ← CTA кнопка
 
 
 🎠 Hero Slider
+
 Slide 1
+
 Badge: Signature Dish
+
 Title: Smoky Burger
+
 Description: Double dry-aged beef patty, smoked bacon, charcoal BBQ sauce - a taste that stays with you.
-Background: linear-gradient(135deg,#1a0a00,#3d1500,#6b2800)
-Photo: images/slide-1.jpg
+
 Slide 2
+
 Badge: Grill of the Season
+
 Title: Ribeye on Fire
+
 Description: Medium rare, smoky aroma of oak charcoal, chimichurri sauce.
-Background: linear-gradient(135deg,#0a0a0a,#1c0e00,#3a2000)
-Photo: images/slide-2.jpg
+
 Slide 3
+
 Badge: Bar Special
+
 Title: Smoky Old Fashioned
+
 Description: Aged bourbon, cherry wood smoke, orange peel - the cocktail of the evening.
-Background: linear-gradient(135deg,#060d14,#0f1d2e,#1a3045)
-Photo: images/slide-3.jpg
+
 Slide 4
+
 Badge: Hit of the Week
+
 Title: Dark Beast
+
 Description: Double patty, truffle sauce, caramelized onions, parmesan.
-Background: linear-gradient(135deg,#0d0800,#291800,#4a2d00)
-Photo: images/slide-4.jpg
+
 Slide 5
+
 Badge: Hot off the Grill
+
 Title: Fire & Fury
+
 Description: Spicy marinade, live fire, crispy crust - for the brave only.
-Background: linear-gradient(135deg,#0a0000,#220000,#420000)
-Photo: images/slide-5.jpg
 
 🍽 Menu Section
+
 Eyebrow: Our Menu
+
 Title: WHAT WE COOK
+
 Subtitle: Street food is not fast food. It's honest cooking made with fire, respect for ingredients and no compromises.
-🍔 Tab — Burgers
+
+🍔 Tab - Burgers
+
 Tab title: Burgers
+
 Tab sub: Smoky, classic, spicy
+
 Panel title: DARKFIRE Burgers
+
 Panel text: Every patty is made from locally sourced beef, aged for 21 days. Buns from our own bakery, sauces - our own recipes.
+
 Items:
 
 Smoky Classic — beef, cheddar, bacon
